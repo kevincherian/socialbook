@@ -1,14 +1,7 @@
-README
+      <b>Treebook- Social Network made using Ruby on Rails </b>
+      
+      * Running Rails 4.1.8
 
+      * Using Twitter Bootstrap 
 
-*<b> Running Rails 4.1.8</b>
-
-* Using Twitter Bootstrap 
-
-* Deploying on Heroku 
-
-
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+      * Deploying on Heroku 
